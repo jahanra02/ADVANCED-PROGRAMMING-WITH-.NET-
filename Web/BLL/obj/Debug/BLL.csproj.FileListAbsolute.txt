@@ -1,0 +1,14 @@
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\bin\Debug\BLL.dll
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\bin\Debug\BLL.pdb
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\bin\Debug\AutoMapper.dll
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\bin\Debug\DAL.dll
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\bin\Debug\EntityFramework.dll
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\bin\Debug\DAL.pdb
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\bin\Debug\DAL.dll.config
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\bin\Debug\AutoMapper.xml
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\bin\Debug\EntityFramework.xml
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\obj\Debug\BLL.dll
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\BLL\obj\Debug\BLL.pdb

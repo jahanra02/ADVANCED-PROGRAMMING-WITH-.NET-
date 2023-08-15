@@ -1,0 +1,15 @@
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\bin\Debug\DAL.dll.config
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\bin\Debug\DAL.dll
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\bin\Debug\DAL.pdb
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\bin\Debug\EntityFramework.dll
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\bin\Debug\EntityFramework.xml
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\obj\Debug\DAL.dll
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\obj\Debug\DAL.pdb
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\obj\Debug\DAL.Migrations.intiDB.resources
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\ADVANCED-PROGRAMMING-WITH-.NET-\Web\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
